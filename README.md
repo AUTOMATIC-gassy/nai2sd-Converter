@@ -2,7 +2,6 @@
 NovelAIのプロンプトをSDwebUI用に変換するカスタムスクリプトです。
 - NovelAIの{word}や[word]をSDwebUI用の倍率の(word:x)に変換
 - 入れ子構造の括弧への対応
-- '('や')'の前にバックスラッシュを付ける
 が特徴です
 # インストール
 nai2sd_Converter.pyをダウンロードして、ローカルのwebUIフォルダ直下にあるscriptsファイルの中に入れてください
